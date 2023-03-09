@@ -1,0 +1,43 @@
+{
+    "squadName" : "RESERVIOR DOGS",
+    "homeTown" : "BOGOTROPOLIS",
+    "formed" : 2023,
+    "secretBase" : "RESERVIOR TOWER",
+    "active" : true,
+    "members" : [
+      {
+        "name" : "STANBUG",
+        "age" : 20,
+        "secretIdentity" : "JULES WINDERFOLD",
+        "powers" : [
+          "Super Velocidad",
+          "inmune al fuego",
+          "Vision X",
+          "Viajar en el tiempo"
+        ]
+      },
+      {
+        "name" : "HAWKAYE",
+        "age" : 35,
+        "secretIdentity" : "JAMES BARTTON",
+        "powers" : [
+          "Regeneracion",
+          "Super fuerza",
+          "Artista marcial",
+          "Ojo de alcon"
+        ]
+      },
+      {
+        "name" : "CAPITAN BOGOTA",
+        "age" : 2000,
+        "secretIdentity" : "El inmortal",
+        "powers" : [
+          "Inmortalidad",
+          "Regeneracion",
+          "Super fuerza",
+          "Artista marcial",
+          "Super fuerza"
+        ]
+      }
+    ]
+  }
